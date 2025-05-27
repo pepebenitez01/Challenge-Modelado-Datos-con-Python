@@ -1,10 +1,10 @@
 Análisis de Rendimiento de Tiendas Alura Store
 Este repositorio contiene el código y los resultados de un análisis de datos preliminar para las cuatro sucursales de la cadena Alura Store. El objetivo principal de este proyecto es evaluar el rendimiento de cada tienda, identificar la menos eficiente y generar una recomendación basada en los datos para el Sr. Juan, quien busca desinvertir en una de las tiendas para financiar un nuevo emprendimiento.
 
-🚀 Objetivo del Proyecto
+**🚀 Objetivo del Proyecto**
 El Sr. Juan ha solicitado una evaluación exhaustiva de las cuatro sucursales de su cadena, Alura Store, con el fin de determinar cuál de ellas debería ser desinvertida para financiar un nuevo proyecto empresarial. Para cumplir con este requerimiento, se ha realizado un análisis detallado de los datos de ventas, el rendimiento operativo y las reseñas de clientes correspondientes a cada una de las cuatro tiendas. El propósito fundamental de este estudio es identificar la sucursal con el rendimiento más bajo o la menor eficiencia, y posteriormente formular una recomendación fundamentada en los hallazgos derivados del análisis de los datos.
 
-📊 Metodología y Análisis
+**📊 Metodología y Análisis**
 El análisis se llevó a cabo utilizando Python, aprovechando la potencia de la librería pandas para la manipulación y el análisis de datos, requests para la descarga de los datasets desde URLs, y matplotlib.pyplot (implícitamente para los gráficos si se generaron con Python) para la visualización.
 
 Los pasos principales del análisis fueron:
